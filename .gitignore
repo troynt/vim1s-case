@@ -1,0 +1,7 @@
+/pcb.stl
+/renders-local/
+*.stp
+*.step
+*.brep
+*.zip
+.openscad-*
